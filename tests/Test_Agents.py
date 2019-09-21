@@ -10,7 +10,6 @@ from agents.DQN_agents.DDQN import DDQN
 from agents.DQN_agents.DDQN_With_Prioritised_Experience_Replay import DDQN_With_Prioritised_Experience_Replay
 from agents.DQN_agents.DQN_With_Fixed_Q_Targets import DQN_With_Fixed_Q_Targets
 from DDPG import DDPG
-from DDPG_HER import DDPG_HER
 from environments.Bit_Flipping_Environment import Bit_Flipping_Environment
 from agents.policy_gradient_agents.PPO import PPO
 from Four_Rooms_Environment import Four_Rooms_Environment

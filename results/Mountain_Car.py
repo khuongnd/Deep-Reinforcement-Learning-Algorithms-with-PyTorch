@@ -2,7 +2,6 @@ import gym
 
 from agents.policy_gradient_agents.PPO import PPO
 from agents.actor_critic_agents.DDPG import DDPG
-from SAC import SAC
 from TD3 import TD3
 from agents.Trainer import Trainer
 from utilities.data_structures.Config import Config
